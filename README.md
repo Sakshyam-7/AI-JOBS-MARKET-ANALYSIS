@@ -98,7 +98,7 @@ Created advanced features such as:
 
 ## 📁 Project Structure
 
-```text
+text
 AI-JOBS-MARKET-ANALYSIS/
 │
 ├── Dashboard/
@@ -117,3 +117,219 @@ AI-JOBS-MARKET-ANALYSIS/
 │
 ├── README.md
 └── requirements.txt
+
+Dashboard Pages
+1. Executive Overview
+Global AI salary trends
+Hiring distribution
+Remote work analysis
+Geographic AI hubs
+2. Salary Insights & Prediction
+Salary benchmarking
+Actual vs predicted salary
+Education impact
+Global compensation analysis
+3. Skills & Requirements Analysis
+Skill demand analysis
+Premium skill salary impact
+Education distribution
+Experience requirements
+4. AI Automation Risk
+High-risk job roles
+Automation exposure
+Industry risk analysis
+Risk by career stage
+5. Model Performance & Feature Insights
+Model benchmarking
+Feature importance
+Error analysis
+Prediction accuracy
+Dashboard Screenshots
+
+Create a Dashboard folder inside the repository and place all dashboard screenshots there.
+
+Executive Overview
+![Executive Overview](Dashboard/dashboard_page1.png)
+Salary Insights & Prediction
+![Salary Insights](Dashboard/dashboard_page2.png)
+Skills & Requirements Analysis
+![Skills Analysis](Dashboard/dashboard_page3.png)
+AI Automation Risk
+![Automation Risk](Dashboard/dashboard_page4.png)
+Model Performance & Feature Insights
+![Model Performance](Dashboard/dashboard_page5.png)
+Exploratory Data Analysis (EDA)
+
+Performed:
+
+Univariate Analysis
+Bivariate Analysis
+Correlation Analysis
+Salary Distribution Analysis
+Experience Level Analysis
+Industry Comparison
+Remote Work Distribution
+Feature Importance
+
+Top predictive features:
+
+Years Experience
+Company Location
+Experience Level
+Company Size
+Job Description Length
+Key Business Insights
+Executive AI roles earn nearly 3× entry-level salaries
+Premium AI skills provide ~$15K salary premium
+Only ~13% of AI jobs are classified as high automation risk
+Data Analyst roles show the highest automation exposure
+Skill breadth significantly reduces automation risk
+Future Enhancements
+Real-time job API integration
+NLP-based job description analysis
+Time-series salary forecasting
+AI chatbot integration
+Flask/FastAPI deployment
+Cloud deployment
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Sakshyam-7/AI-JOBS-MARKET-ANALYSIS.git
+
+Move into the project directory:
+
+cd AI-JOBS-MARKET-ANALYSIS
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run Jupyter Notebook:
+
+jupyter notebook
+Requirements
+
+Example requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+openpyxl
+Author
+Sakshyam Bhandari
+GitHub: Sakshyam-7 GitHub
+LinkedIn: Sakshyam Bhandari LinkedIn
+License
+
+This project is licensed under the MIT License.Dashboard Pages
+1. Executive Overview
+Global AI salary trends
+Hiring distribution
+Remote work analysis
+Geographic AI hubs
+2. Salary Insights & Prediction
+Salary benchmarking
+Actual vs predicted salary
+Education impact
+Global compensation analysis
+3. Skills & Requirements Analysis
+Skill demand analysis
+Premium skill salary impact
+Education distribution
+Experience requirements
+4. AI Automation Risk
+High-risk job roles
+Automation exposure
+Industry risk analysis
+Risk by career stage
+5. Model Performance & Feature Insights
+Model benchmarking
+Feature importance
+Error analysis
+Prediction accuracy
+Dashboard Screenshots
+
+Create a Dashboard folder inside the repository and place all dashboard screenshots there.
+
+Executive Overview
+![Executive Overview](Dashboard/dashboard_page1.png)
+Salary Insights & Prediction
+![Salary Insights](Dashboard/dashboard_page2.png)
+Skills & Requirements Analysis
+![Skills Analysis](Dashboard/dashboard_page3.png)
+AI Automation Risk
+![Automation Risk](Dashboard/dashboard_page4.png)
+Model Performance & Feature Insights
+![Model Performance](Dashboard/dashboard_page5.png)
+Exploratory Data Analysis (EDA)
+
+Performed:
+
+Univariate Analysis
+Bivariate Analysis
+Correlation Analysis
+Salary Distribution Analysis
+Experience Level Analysis
+Industry Comparison
+Remote Work Distribution
+Feature Importance
+
+Top predictive features:
+
+Years Experience
+Company Location
+Experience Level
+Company Size
+Job Description Length
+Key Business Insights
+Executive AI roles earn nearly 3× entry-level salaries
+Premium AI skills provide ~$15K salary premium
+Only ~13% of AI jobs are classified as high automation risk
+Data Analyst roles show the highest automation exposure
+Skill breadth significantly reduces automation risk
+Future Enhancements
+Real-time job API integration
+NLP-based job description analysis
+Time-series salary forecasting
+AI chatbot integration
+Flask/FastAPI deployment
+Cloud deployment
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Sakshyam-7/AI-JOBS-MARKET-ANALYSIS.git
+
+Move into the project directory:
+
+cd AI-JOBS-MARKET-ANALYSIS
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run Jupyter Notebook:
+
+jupyter notebook
+Requirements
+
+Example requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+openpyxl
+Author
+Sakshyam Bhandari
+GitHub: Sakshyam-7 GitHub
+LinkedIn: Sakshyam Bhandari LinkedIn
+License
+
+This project is licensed under the MIT License.
